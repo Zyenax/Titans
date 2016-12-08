@@ -1,0 +1,7 @@
+name: Titans
+version: 1.0
+main: net.Zyenax.Titans.Main
+author: Zyenax
+commands:
+  titan:
+    description: Open titan menu!
